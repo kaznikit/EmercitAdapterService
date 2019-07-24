@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="EmercitAdapterService.Service1" CodeBehind="EmercitAdapterService.svc.cs" %>
